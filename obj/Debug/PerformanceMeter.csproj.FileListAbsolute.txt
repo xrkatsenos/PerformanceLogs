@@ -1,0 +1,16 @@
+C:\Users\ckat\Desktop\PerformanceMeter\bin\Debug\PerformanceMeter.exe.config
+C:\Users\ckat\Desktop\PerformanceMeter\bin\Debug\PerformanceMeter.exe
+C:\Users\ckat\Desktop\PerformanceMeter\bin\Debug\PerformanceMeter.pdb
+C:\Users\ckat\Desktop\PerformanceMeter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ckat\Desktop\PerformanceMeter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ckat\Desktop\PerformanceMeter\obj\Debug\PerformanceMeter.Form1.resources
+C:\Users\ckat\Desktop\PerformanceMeter\obj\Debug\PerformanceMeter.Properties.Resources.resources
+C:\Users\ckat\Desktop\PerformanceMeter\obj\Debug\PerformanceMeter.csproj.GenerateResource.cache
+C:\Users\ckat\Desktop\PerformanceMeter\obj\Debug\PerformanceMeter.csproj.CoreCompileInputs.cache
+C:\Users\ckat\Desktop\PerformanceMeter\obj\Debug\PerformanceMeter.csproj.CopyComplete
+C:\Users\ckat\Desktop\PerformanceMeter\obj\Debug\PerformanceMeter.exe
+C:\Users\ckat\Desktop\PerformanceMeter\obj\Debug\PerformanceMeter.pdb
+C:\Users\ckat\Desktop\PerformanceMeter\bin\Debug\PerformanceMeter.exe.manifest
+C:\Users\ckat\Desktop\PerformanceMeter\bin\Debug\PerformanceMeter.application
+C:\Users\ckat\Desktop\PerformanceMeter\obj\Debug\PerformanceMeter.exe.manifest
+C:\Users\ckat\Desktop\PerformanceMeter\obj\Debug\PerformanceMeter.application
